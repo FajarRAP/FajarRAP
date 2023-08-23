@@ -1,4 +1,5 @@
-### Hi there 👋
+### Halo Banx 👋
+### Kenalin gw Fajar tukang ngechant idol lokal
 
 <!--
 **FajarRAP/FajarRAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
