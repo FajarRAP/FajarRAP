@@ -1,5 +1,5 @@
 ### Halo Banx 👋
-### Kenalin gw Fajar tukang ngechant idol lokal
+### Kenalin gw Fajar, perjalanan ngoding gue dari fundamental ampe oop + mabok pake c++ (raw programming skills), terus gw nyemplung ke machine learning dan deep learning via Bangkit Program, lanjut ke flutter hingga diterima magang di salah satu unit di kampus, sekarang lagi tipis tipis full stack pake TALL dan FMEN (Fnya Flutter kawokoa).
 
 <p align="left">
 <a href="https://github.com/FajarRAP">
