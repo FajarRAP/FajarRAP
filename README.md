@@ -1,5 +1,20 @@
-### Halo Banx 👋
-### Kenalin gw Fajar, perjalanan ngoding gue dari fundamental ampe oop + mabok pake c++ (raw programming skills), terus gw nyemplung ke machine learning dan deep learning via Bangkit Program, lanjut ke flutter hingga diterima magang di salah satu unit di kampus, sekarang lagi tipis tipis full stack pake TALL dan FMEN (Fnya Flutter kawokoa).
+# Halo Banx! 👋 Kenalin, gue Fajar.
+
+Seorang **Mobile Developer** yang suka ngulik dari ujung ke ujung. Perjalanan ngoding gue dimulai dari ngebangun fundamental dan OOP sampai sempet "mabok" pake C++ (*raw programming skills* emang ga bohong). Dari situ, gue nyemplung ke dunia *Machine Learning* & *Deep Learning* via **Bangkit Academy**. 
+
+Pencarian jati diri berlanjut ke **Flutter**, mulai dari magang di unit kampus sampai akhirnya nyaman berkarir di *Mobile Development*. Sekarang? Gue lagi asik nge-eskplorasi ranah *Fullstack* pake **TALL** (Tailwind, Alpine, Laravel, Livewire) dan stack racikan andalan gue: **FMEN** (*Flutter, MongoDB, Express, Node.js*—F-nya Flutter kawokoa 🚀).
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+Dulu *raw skills*, sekarang lebih fokus ke arsitektur yang *clean* dan sistem yang *scalable*:
+- **Mobile:** Flutter, Dart, Clean Architecture, BLoC/Cubit, Unit Testing (Mocktail)
+- **Backend/Fullstack:** Node.js, Express, MongoDB, TALL Stack
+- **Tools & Services:** Firebase (Crashlytics, FCM), Hive, Dio, Git
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
 <a href="https://github.com/FajarRAP">
@@ -8,17 +23,12 @@
 </a>
 </p>
 
-<!--
-**FajarRAP/FajarRAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 Quick Facts About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Membangun ekosistem aplikasi Flutter yang tangguh, dari integrasi *hardware native* (scanner) sampai manajemen *state* yang kompleks.
+- 🌱 **I’m currently learning:** Pendalaman Fullstack development dan optimasi *offline-first architecture*.
+- 💬 **Ask me about:** Flutter, Dependency Injection, BLoC, atau gimana rasanya migrasi ke `go_router`.
+- 📫 **How to reach me:** [fajary781@gmail.com](mailto:fajary781@gmail.com)
+- ⚡ **Fun fact:** Berangkat dari C++ dan Machine Learning, tapi akhirnya malah "menikah" dengan UI/UX dan Mobile Development.
