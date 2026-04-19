@@ -1,4 +1,4 @@
-# Halo Banx! 👋 Kenalin, gue Fajar.
+# Halo! 👋 Kenalin, gue Fajar.
 
 Seorang **Mobile Developer** yang suka ngulik dari ujung ke ujung. Perjalanan ngoding gue dimulai dari ngebangun fundamental dan OOP sampai sempet "mabok" pake C++ (*raw programming skills* emang ga bohong). Dari situ, gue nyemplung ke dunia *Machine Learning* & *Deep Learning* via **Bangkit Academy**. 
 
